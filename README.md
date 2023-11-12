@@ -6,7 +6,9 @@
  
  🔭 I’m now a volunteer at **the Magdy Yacoub Heart Foundation**
  
- 🌱 I’m currently learning **Typescript, Tailwind, Nextjs Expo**
+ 🔭 I’m now a member of **Aswan Practical Engineering Lab -APEL**
+ 
+ 🌱 I’m currently learning **Typescript, Tailwind, Nextjs**
 
  
  </div>
