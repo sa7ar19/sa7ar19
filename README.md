@@ -1,3 +1,6 @@
+<h1 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sahar+Mahmoud!;" />
+    </h1>
 <h3 align="center">A software developer from Egypt</h3>
 
 <br/>
@@ -14,7 +17,7 @@
  </div>
  
 <div align="center"> 
-  <a href="saharmahmud86@gmail.com">
+  <a href="mailto:saharmahmud86@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/sahar-mahmoud-bb9a40219/" target="_blank">
