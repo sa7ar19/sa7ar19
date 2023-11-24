@@ -7,12 +7,14 @@
 
 <div align="center">
  
- 🔭 I’m now a volunteer at:
- . **the Magdy Yacoub Heart Foundation**
- . **The Institute of Electrical and Electronics Engineers - IEEE**
- . **Aswan Practical Engineering Lab - APEL**
+### 🔭 I’m now a volunteer at :
+
+- T**he Magdy Yacoub Heart Foundation** 
+- **The Institute of Electrical and Electronics Engineers - IEEE**
+- **Aswan Practical Engineering Lab - APEL** 🤖
+
  
- 🌱 I’m currently learning **Typescript, Tailwind CSS, Nextjs**
+ 🌱 I’m currently learning **Typescript, Nextjs**
 
  
  </div>
