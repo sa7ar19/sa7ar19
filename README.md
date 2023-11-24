@@ -9,9 +9,9 @@
  
 ### 🔭 I’m now a volunteer at :
 
-- T**he Magdy Yacoub Heart Foundation** 
-- **The Institute of Electrical and Electronics Engineers - IEEE**
-- **Aswan Practical Engineering Lab - APEL** 🤖
+ **The Magdy Yacoub Heart Foundation** 
+ **The Institute of Electrical and Electronics Engineers - IEEE**
+ **Aswan Practical Engineering Lab - APEL** 🤖
 
  
  🌱 I’m currently learning **Typescript, Nextjs**
