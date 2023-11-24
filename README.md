@@ -7,9 +7,10 @@
 
 <div align="center">
  
- 🔭 I’m now a volunteer at **the Magdy Yacoub Heart Foundation**
- 
- 🔭 I’m now a member of **Aswan Practical Engineering Lab -APEL**
+ 🔭 I’m now a volunteer at:
+ . **the Magdy Yacoub Heart Foundation**
+ . **The Institute of Electrical and Electronics Engineers - IEEE**
+ . **Aswan Practical Engineering Lab - APEL**
  
  🌱 I’m currently learning **Typescript, Tailwind CSS, Nextjs**
 
