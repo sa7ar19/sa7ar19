@@ -14,7 +14,7 @@
 - **Aswan Practical Engineering Lab - APEL** 🤖
 
  
- 🌱 I’m currently learning **Typescript, Nextjs**
+ 🌱 I’m currently learning **React Native**
 
  
  </div>
