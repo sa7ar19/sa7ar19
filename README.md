@@ -14,7 +14,7 @@
 - **Aswan Practical Engineering Lab - APEL** 🤖
 
  
- 🌱 I’m currently learning **React Native**
+ 🌱 I’m currently learning **Node Js**
 
  
  </div>
@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,babel,bash,codepen,discord,jest,kali,linux,notion,threejs,vercel,vercel,yarn" />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nextjs,github,figma,tailwind,git" /><br>
 </div>
 
