@@ -34,8 +34,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,babel,bash,codepen,discord,jest,kali,linux,notion,threejs,vercel,vercel,yarn" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,babel,bash" />
+    <img src="https://skillicons.dev/icons?i=codepen,discord,jest,kali,linux,notion,threejs,vercel" />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nextjs,github,figma,tailwind,git" /><br>
+    <img src="https://skillicons.dev/icons?i=vercel,yarn" /><br>
 </div>
 
 <br/>
